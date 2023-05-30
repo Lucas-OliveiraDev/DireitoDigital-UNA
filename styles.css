@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #1a202c, #2d3748);
+}
+
+#glossary {
+    margin-top: 20px;
+}
+
+.term {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.description {
+    margin-left: 10px;
+}
+
+@keyframes typing {
+    0% {
+      width: 0;
+      opacity: 0;
+    }
+    100% {
+      width: 100%;
+      opacity: 1;
+    }
+  }
+  
+  .typing-effect {
+    display: inline-block;
+    overflow: hidden;
+    animation: typing 3s steps(30, end);
+    white-space: nowrap;
+  }
