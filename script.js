@@ -79,78 +79,78 @@ let glossary = {
 
 let glossaryImages = {
   "Agentes de tratamento":
-    "https://opiceblum.com.br/wp-content/uploads/2020/08/LGPD_agentes-de-tratamento-03-1-2.jpg",
+    "images/AgentesDeTratamento.jpg",
   Algoritmo:
-    "https://files.tecnoblog.net/wp-content/uploads/2019/10/fluxograma-lampada-700x394.jpg",
+    "images/Algoritmo.jpg",
   "Anonimização de dados":
-    "https://thumbs.jusbr.com/imgs.jusbr.com/publications/images/c4c9e347e08669581ec480e88d16ac58",
+    "images/AnonimizacaoDeDados.png",
   "Automação de vagas de emprego":
-    "https://www.anoticiausa.com/wp-content/uploads/2022/04/Robot-Jobs.jpg",
+    "images/AutomacaoVagasEmprego.jpg",
   "Autoridade Nacional de Proteção de Dados":
-    "https://opiceblum.com.br/wp-content/uploads/2020/07/Infografico-12.jpg",
+    "images/AutoridadeNacionalProtecao.jpg",
   Blockchain:
-    "https://101blockchains.com/wp-content/uploads/2018/09/Como-funciona-a-BlockChain-Passo-a-Passo.png",
+    "images/BlockChain.png",
   "Creative Commons":
-    "https://www.researchgate.net/profile/Wagner-Soares-Rossi-2/publication/304661725/figure/fig1/AS:379033578688515@1467380055709/Figura-1-Simbolos-utilizados-e-atribuicoes-das-licencas-Creative-Commons-Fonte-Adaptado.png",
+    "images/CreativeCommons.png",
   Copyleft:
-    "https://thumbs.dreamstime.com/b/copyleft-cloud-concept-white-background-196167068.jpg",
-  Copyright: "https://fia.com.br/wp-content/uploads/2020/07/d1.jpg",
+    "images/Copyleft.webp",
+  Copyright: "images/Copyright.jpg",
   Criptomoeda:
-    "https://investnews.com.br/wp-content/uploads/2021/08/criptomoedas2-scaled.jpg",
+    "images/Criptomoeda.jpg",
   Cyberdemocracia:
-    "https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/6NHY4JZTORCDVLWIIIEDVHEL2E.jpg",
+    "images/Cyberdemocracia.jpg",
   "Dados de crianças e adolescentes":
-    "https://cangurunews.com.br/wp-content/uploads/2020/07/imagem-correta-696x464.jpg",
+    "images/dadosCriancasAdolescentes.jpg",
   "Dados pessoais":
-    "https://idec.org.br/arquivos/dados-pessoais/diagrama-dados.jpg",
+    "images/dadosPessoais.jpg",
   "Dados sensíveis":
-    "https://opiceblum.com.br/wp-content/uploads/2020/08/LGPD_espécies_de_dados-02-3.jpg",
+    "images/dadosSensiveis.jpg",
   "Direitos autorais":
-    "https://gkpb.com.br/wp-content/uploads/2020/05/propriedade-intelectual-direitos-autorais-geek-publicitario.jpg",
+    "images/direitosAutorais.jpg",
   "Direitos morais do autor":
-    "https://slideplayer.com.br/slide/353557/2/images/7/Direito+moral+é+um+direito%3A.jpg",
+    "images/DireitosMorais.jpg",
   "Direitos patrimoniais do autor":
-    "https://slideplayer.com.br/slide/2443598/8/images/25/Direito+Autoral+Classificação+Direito+Moral+Direito+Patrimonial.jpg",
+    "images/DireitoPatrimoniais.jpg",
   "Discurso de Ódio":
-    "https://www.jornaldocampus.usp.br/wp-content/uploads/2014/10/hqempauta.png",
+    "images/DiscursoOdio.png",
   "Fake News":
-    "https://i0.wp.com/jornal.usp.br/wp-content/uploads/2023/05/20230526_pldasfakenews.jpg?fit=1200%2C630&ssl=1",
+    "images/FakeNews.webp",
   "Governança de rede":
-    "https://www.redalyc.org/journal/752/75252699011/75252699011_gf1.jpg",
+    "images/GovernancaRede.jpg",
   Internet:
-    "https://img.olhardigital.com.br/wp-content/uploads/2021/06/internet-1.jpg",
+    "images/internet.jpg",
   "Informação sigilosa":
-    "https://www.cisoadvisor.com.br/wp-content/uploads/2022/03/hacking-g2fb883121_640-e1648159596652.png",
+    "images/informacaoSigilosa.png",
   "Inteligência artificial":
-    "https://www.mundodomarketing.com.br/wp-content/uploads/2023/05/Inteligencia-Artificial-hype-ou-revolucao-destaque.jpg",
+    "images/inteligenciaArtificial.jpg",
   "Non fugible token":
-    "https://blockchainsimplified.com/blog/understanding-fungible-non-fungible-tokens/fungible-non-fungible-tokens-examples.jpg",
+    "images/nonFugibleToken.jpg",
   "Paradoxo da intolerância":
-    "https://i0.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2018/10/A-INTOLERÂNCIA-NÃO-DEVE-SER-TOLERADA-GEEKNESS.jpg?fit=810%2C360&ssl=1&resize=1280%2C720",
+    "images/paradoxoIntolerancia.webp",
   "Propriedade industrial":
-    "https://static.consolidesuamarca.com.br/assets/base/4c1/44c/47e/propriedade_intelectual_x_propriedade_industrial.png",
+    "images/propriedadeIndustrial.png",
   "Propriedade intelectual":
-    "https://thumbs.jusbr.com/imgs.jusbr.com/publications/artigos/images/direitos-autorais-propriedade-intelectual-e-protecao-suis-generis1479869876.png",
+    "images/propriedadeIntelectual.jpg",
   "Sandbox (ambiente regulatório experimental)":
-    "https://noomis-files-hmg.s3.amazonaws.com/content/fac84610-991a-11ea-97fe-9d92b54c13c9.png",
+    "images/sandbox.png",
   "Smartcities (cidades inteligentes)":
-    "https://d33wubrfki0l68.cloudfront.net/95850296702120af190d10e52e9e6e0e47c2ab19/bbce5/imagens/smartcitylaguna.jpg",
-  Startup: "https://ejur.com.br/wp-content/uploads/2020/09/startup.png",
+    "images/smartcities.jpg",
+  Startup: "images/startup.png",
   "Subordinação algorítmica":
-    "https://painelderiscos.com.br/wp-content/uploads/2023/04/Crowdworking-Reprodução-TextBroker.De_.jpg",
+    "images/subordinacaoAlgoritmica.jpg",
   Tecnocracia:
-    "https://slideplayer.com.br/slide/14804520/90/images/6/A+Tecnocracia.jpg",
+    "images/tecnocracia.jpg",
   "Transparência ativa":
-    "https://www.sinop.mt.leg.br/imagens/Transparenciaativapassiva.jpg",
+    "images/transparenciaAtiva.jpg",
   "Transparência passiva":
-    "https://images.slideplayer.com.br/31/9730303/slides/slide_2.jpg",
+    "images/transparenciaPassiva.jpg",
   "Tratamento de dados de pessoais":
-    "https://www.gepcompliance.com.br/wp-content/uploads/2021/11/Agentes-de-tratamento-de-dados-pessoais-1-1024x684.png.webp",
+    "images/tratamentoDadosPessoais.webp",
   "Uberização das relações trabalhistas":
-    "https://thumbs.jusbr.com/imgs.jusbr.com/publications/images/cc328bd96c19293b57c64e1c7f5c9179",
-  "Viés algorítmico": "https://pbs.twimg.com/media/FU1HPsEWUAY6KMr.jpg",
+    "images/uberizacaoRelacoesTrabalhistas.jpg",
+  "Viés algorítmico": "images/viesAlgoritmico.jpg",
   "Câmaras de eco":
-    "https://i.pinimg.com/736x/86/3a/c8/863ac888d996f6fc4cca8198e4774b47.jpg",
+    "images/CamarasEco.jpg",
 };
 
 let glossaryDiv = document.getElementById("glossary");
