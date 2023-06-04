@@ -1,41 +1,55 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="styles.css">
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
     <title>Glossário de Direito Digital</title>
-</head>
-<body class="font-sans text-white min-h-screen flex flex-col items-center justify-center px-4 sm:px-8 lg:px-16">
+  </head>
+  <body
+    class="font-sans text-white min-h-screen flex flex-col items-center justify-center px-4 sm:px-8 lg:px-16"
+  >
     <div class="w-full max-w-2xl">
-        <div class="description text-sm text-gray-500">
-            <span class="typing-effect">Dev - Lucas Silva de Oliveira - RA: 41922793</span>
-        </div>
-        <div class="description text-sm text-gray-500 mb-2">
-            <span class="typing-effect">Dev - Carlos Alberto Fidelis de Carvalho - RA: 42025958</span>
-        </div>
-        <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-8 text-center">Glossário de Direito Digital</h1>
-        <input id="search" class="w-full p-2 mb-8 rounded shadow bg-white text-black" type="text" placeholder="Digite para pesquisar um verbete...">
-        <div id="itemCount" class="text-white mt-4"></div>
-        <div id="glossary" class="space-y-6">
-            <!-- O glossário será preenchido aqui pelo JavaScript -->
-        </div>
-        <div id="pagination" class="flex justify-center space-x-2 mt-4">
-            <!-- Os botões de paginação serão preenchidos aqui pelo JavaScript -->
-        </div>
+      <div class="description text-sm text-gray-500">
+        <span class="typing-effect"
+          >Dev - Lucas Silva de Oliveira - RA: 41922793</span
+        >
+      </div>
+      <div class="description text-sm text-gray-500 mb-2">
+        <span class="typing-effect"
+          >Dev - Carlos Alberto Fidelis de Carvalho - RA: 42025958</span
+        >
+      </div>
+      <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-8 text-center">
+        Glossário de Direito Digital
+      </h1>
+      <input
+        id="search"
+        class="w-full p-2 mb-8 rounded shadow bg-white text-black"
+        type="text"
+        placeholder="Digite para pesquisar um verbete..."
+      />
+      <div id="itemCount" class="text-white mt-4"></div>
+      <div id="glossary" class="space-y-6">
+        <!-- O glossário será preenchido aqui pelo JavaScript -->
+      </div>
+      <div id="pagination" class="flex justify-center space-x-2 mt-4">
+        <!-- Os botões de paginação serão preenchidos aqui pelo JavaScript -->
+      </div>
 
-
-        <div class="flex justify-center items-center space-x-2">
-            
-        <a href=""  download="GFG">
-            <button class="bubbly-button bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-6">
-             Baixar Glossário
-            </button>
-         </a>
-        </div>
+      <div class="flex justify-center items-center space-x-2">
+        <a href="/DireitoDigital-UNA-main/DireitoDigital.docx"  download="DireitoDigital">
+          <button class="bubbly-button bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-6">
+           Baixar Glossário
+          </button>
+       </a>
+      </div>
     </div>
     <script src="script.js"></script>
-</body>
+  </body>
 </html>
